@@ -1,0 +1,25 @@
+# Eclipse and Spring Tool Suite workspace metadata
+.metadata/
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# Maven and Java build output
+target/
+*.class
+
+# Maven wrapper downloads
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
