@@ -1,0 +1,5 @@
+package com.klu.patientservice.Entity;
+
+public class Patient {
+
+}

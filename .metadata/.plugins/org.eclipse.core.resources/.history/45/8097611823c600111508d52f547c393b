@@ -1,0 +1,5 @@
+package com.klu.docservice.entity;
+
+public class Doctor {
+
+}

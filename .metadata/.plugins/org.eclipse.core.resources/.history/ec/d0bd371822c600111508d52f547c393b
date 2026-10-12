@@ -1,0 +1,15 @@
+package com.klu.patientservice.service;
+
+import org.springframework.stereotype.Service;
+
+import com.klu.patientservice.repository.Patientrepo;
+
+@Service
+public class ervices {
+	private Patientrepo repo;
+	public service(Patientrepo repo) {
+		this.repo=repo;
+	}
+	public 
+	
+}

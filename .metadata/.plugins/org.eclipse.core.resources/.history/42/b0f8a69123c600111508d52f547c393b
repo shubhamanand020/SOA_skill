@@ -1,0 +1,14 @@
+package com.klu.docservice.entity;
+
+import jakarta.persistence.*;
+
+@Entity
+public class Doctor {
+	@id
+	@GeneratedValue(strategy= GeneationType.IDENTITY)
+	private id;
+	private String docname;
+	private String address;
+	private String role;
+	
+}
