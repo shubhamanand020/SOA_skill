@@ -1,7 +1,0 @@
-package com.klu.patientservice.repository;
-import com.klu.patientservice.Entity.*;
-
-
-public interface Patientrepo extends JPArepository<Patient, Integer> {
-
-}
